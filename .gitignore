@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Office/Excel temporary files
+~$*.xlsx
+~$*.docx
+
+# Jupyter checkpoints (if added later)
+.ipynb_checkpoints/
+
+# Python virtual env (if added later)
+venv/
+.env/
+
+# Logs
+*.log
